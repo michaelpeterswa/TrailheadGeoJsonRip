@@ -44,7 +44,7 @@ if __name__ == "__main__":
                         "elevation": "",
                         "parking": "",
                         "permit": "",
-                        "facilites": "",
+                        "facilities": "",
                         "notes": "",
                         "coords": coordinates
                         })

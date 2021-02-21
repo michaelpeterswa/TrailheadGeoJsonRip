@@ -5,7 +5,7 @@ if __name__ == "__main__":
     with open("clean_trailheads.json", 'r') as f:
         data = json.load(f)
 
-    for line in data:
+    for line in data[0:2]:
         print('\n' + line["name"])
         print("-------------------------------")
         for info in line["desc"]:
@@ -19,6 +19,7 @@ if __name__ == "__main__":
         line["permit"] = input("Enter permit: ")
         line["facilities"] = input("Enter facilities: ")
         line["notes"] = input("Enter notes: ")
+        line["desc"] = ""
 
     with open("manually_filled.json", 'w') as f:
         json.dump(line, f, indent=4)
