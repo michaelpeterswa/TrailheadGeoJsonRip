@@ -5,9 +5,9 @@ if __name__ == "__main__":
     with open("clean_trailheads.json", 'r') as f:
         data = json.load(f)
 
-    for line in data[0:2]:
+    for idx, line in enumerate(data):
         print('\n' + line["name"])
-        print("-------------------------------")
+        print("----------- %d / %d -----------" % (idx, len(data)))
         for info in line["desc"]:
             print(info)
 
@@ -22,4 +22,4 @@ if __name__ == "__main__":
         line["desc"] = ""
 
     with open("manually_filled.json", 'w') as f:
-        json.dump(line, f, indent=4)
+        json.dump(data, f, indent=4)

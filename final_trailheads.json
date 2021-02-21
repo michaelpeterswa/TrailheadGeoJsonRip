@@ -1,0 +1,982 @@
+[
+    {
+        "name": "Pacific Crest Trail - Main parking",
+        "desc": "",
+        "exit": "52",
+        "elevation": "3025",
+        "parking": "Paved (Unknown Number)",
+        "permit": "NW Forest Pass",
+        "notes": "",
+        "coords": [
+            47.427862,
+            -121.413528
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Pacific Crest Trail - Horse parking",
+        "desc": "",
+        "exit": "52",
+        "elevation": "3020",
+        "parking": "Paved with Horse Parking (Unknown Number)",
+        "permit": "NW Forest Pass",
+        "notes": "",
+        "coords": [
+            47.429154,
+            -121.413549
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Snow Lake/Cave Ridge trail parking",
+        "desc": "",
+        "exit": "52",
+        "elevation": "3115",
+        "parking": "Gravel (200)",
+        "permit": "Unknown",
+        "notes": "",
+        "coords": [
+            47.444808,
+            -121.423656
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Source Lake winter trail parking",
+        "desc": "",
+        "exit": "52",
+        "elevation": "3250",
+        "parking": "Unknown",
+        "permit": "Unknown",
+        "notes": "Gated in summer. Also, generally overgrown and muddy in summer. Use Snow Lake trail instead",
+        "coords": [
+            47.447522,
+            -121.431413
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Denny Creek trail parking",
+        "desc": "",
+        "exit": "47",
+        "elevation": "2265",
+        "parking": "Gravel (30)",
+        "permit": "NW Forest Pass",
+        "notes": "",
+        "coords": [
+            47.415188,
+            -121.443327
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Franklin Falls trail parking",
+        "desc": "",
+        "exit": "47",
+        "elevation": "2200",
+        "parking": "Gravel (25)",
+        "permit": "NW Forest Pass",
+        "notes": "",
+        "coords": [
+            47.413028,
+            -121.442587
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Annette Lake trail parking",
+        "desc": "",
+        "exit": "47",
+        "elevation": "1920",
+        "parking": "Paved (80)",
+        "permit": "NW Forest Pass",
+        "notes": "Also used for Asahel Curtis trail.",
+        "coords": [
+            47.392779,
+            -121.474387
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Granite Mountain trail parking",
+        "desc": "",
+        "exit": "47",
+        "elevation": "1865",
+        "parking": "Paved (50)",
+        "permit": "NW Forest Pass",
+        "notes": "",
+        "coords": [
+            47.397775,
+            -121.486425
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Granite Construction/Emergency parking",
+        "desc": "",
+        "exit": "47",
+        "elevation": "1870",
+        "parking": "Gated.",
+        "permit": "NW Forest Pass",
+        "notes": "Emergency Use Only",
+        "coords": [
+            47.398208,
+            -121.488796
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Ira Spring/Mason Lake trail parking",
+        "desc": "",
+        "exit": "42",
+        "elevation": "2130",
+        "parking": "Gravel (50+)",
+        "permit": "NW Forest Pass",
+        "notes": "",
+        "coords": [
+            47.424603,
+            -121.583322
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Talapus Lake trail parking",
+        "desc": "",
+        "exit": "45",
+        "elevation": "2590",
+        "parking": "Gravel (Unknown Number)",
+        "permit": "NW Forest Pass",
+        "notes": "",
+        "coords": [
+            47.401087,
+            -121.518429
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Bandera helicopter emergency landing area",
+        "desc": "",
+        "exit": "45",
+        "elevation": "1630",
+        "parking": "Paved (6)",
+        "permit": "None",
+        "notes": "Gated. Emergency use Only",
+        "coords": [
+            47.394631,
+            -121.532865
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "McClellan Butte trail parking",
+        "desc": "",
+        "exit": "42",
+        "elevation": "1570",
+        "parking": "Gravel (40)",
+        "permit": "NW Forest Pass",
+        "notes": "",
+        "coords": [
+            47.412066,
+            -121.588966
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Iron Horse - Garcia parking",
+        "desc": "",
+        "exit": "38",
+        "elevation": "1610",
+        "parking": "Gravel (10)",
+        "permit": "None",
+        "notes": "Road in bad condition.",
+        "coords": [
+            47.423899,
+            -121.621313
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Exit 38 climber's trail parking",
+        "desc": "",
+        "exit": "38",
+        "elevation": "1205",
+        "parking": "Paved (30)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.437638,
+            -121.660447
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Mt Washington trail parking",
+        "desc": "",
+        "exit": "38",
+        "elevation": "1240",
+        "parking": "Gravel (65)",
+        "permit": "Discover Pass",
+        "notes": "",
+        "coords": [
+            47.441814,
+            -121.672457
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Dirty Harry's trail parking",
+        "desc": "",
+        "exit": "38",
+        "elevation": "1315",
+        "parking": "Paved (25)",
+        "permit": "Discover Pass",
+        "notes": "",
+        "coords": [
+            47.430943,
+            -121.633011
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Twin Falls trail parking",
+        "desc": "",
+        "exit": "34",
+        "elevation": "615",
+        "parking": "Paved (40)",
+        "permit": "Discover Pass",
+        "notes": "",
+        "coords": [
+            47.452839,
+            -121.706093
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Rattlesnake Ledge trail parking",
+        "desc": "",
+        "exit": "920",
+        "elevation": "32 SWAPPPPPP",
+        "parking": "Paved (200)",
+        "permit": "None",
+        "notes": "Can be extremely busy",
+        "coords": [
+            47.435603,
+            -121.768271
+        ],
+        "facilities": "Porta Potties"
+    },
+    {
+        "name": "Rattlesnake Iron Horse/Cedar Butte trail parking",
+        "desc": "",
+        "exit": "32",
+        "elevation": "",
+        "parking": "Unknown",
+        "permit": "Unknown",
+        "notes": "",
+        "coords": [
+            47.432235,
+            -121.766453
+        ],
+        "facilities": "Unknown"
+    },
+    {
+        "name": "Mailbox Peak trail roadside parking",
+        "desc": "",
+        "exit": "34",
+        "elevation": "784",
+        "parking": "Gravel (25)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.467695,
+            -121.674464
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Mailbox emergency only",
+        "desc": "",
+        "exit": "38",
+        "elevation": "1545",
+        "parking": "Unknown",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.456314,
+            -121.662485
+        ],
+        "facilities": "Gated. Emergency Use Only"
+    },
+    {
+        "name": "CCC trail Bassemer gate",
+        "desc": "",
+        "exit": "34",
+        "elevation": "935",
+        "parking": "Minimal",
+        "permit": "None",
+        "notes": "Small dirt/mud parking, do not block gate.",
+        "coords": [
+            47.516067,
+            -121.613036
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "CCC trail parking",
+        "desc": "",
+        "exit": "34",
+        "elevation": "972",
+        "parking": "Minimal",
+        "permit": "None",
+        "notes": "Wide spot in the road.",
+        "coords": [
+            47.537464,
+            -121.575292
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Middle Fork trail parking",
+        "desc": "",
+        "exit": "34",
+        "elevation": "1050",
+        "parking": "Gravel (Unknown Number)",
+        "permit": "Unknown",
+        "notes": "Large parking area.",
+        "coords": [
+            47.547907,
+            -121.536791
+        ],
+        "facilities": "Unknown"
+    },
+    {
+        "name": "Middle Fork Campground",
+        "desc": "",
+        "exit": "34",
+        "elevation": "1050",
+        "parking": "Unknown",
+        "permit": "Unknown",
+        "notes": "",
+        "coords": [
+            47.554442,
+            -121.537859
+        ],
+        "facilities": "Unknown"
+    },
+    {
+        "name": "Taylor River gate",
+        "desc": "",
+        "exit": "34",
+        "elevation": "1100",
+        "parking": "Minimal",
+        "permit": "Unknown",
+        "notes": "Wide road area.",
+        "coords": [
+            47.559625,
+            -121.532792
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Dingford Creek trail parking",
+        "desc": "",
+        "exit": "34",
+        "elevation": "1350",
+        "parking": "Gravel (Unknown Number)",
+        "permit": "NW Forest Pass",
+        "notes": "Gated after lot, medium size.",
+        "coords": [
+            47.517284,
+            -121.45426
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Goldmeyer authorized only parking",
+        "desc": "",
+        "exit": "34",
+        "elevation": "1804",
+        "parking": "None",
+        "permit": "Unknown",
+        "notes": "Gated. Authorized Use Only",
+        "coords": [
+            47.48814,
+            -121.390053
+        ],
+        "facilities": "Unknown"
+    },
+    {
+        "name": "Spur 10 gate/Fuller Mtn trail parking",
+        "desc": "",
+        "exit": "31",
+        "elevation": "1000",
+        "parking": "Gravel (8)",
+        "permit": "Unknown",
+        "notes": "Wide spot in road.",
+        "coords": [
+            47.574253,
+            -121.736004
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Ratlesnake Ridge trail parking",
+        "desc": "",
+        "exit": "27",
+        "elevation": "1053",
+        "parking": "Paved with Horse Parking (50)",
+        "permit": "Discover Pass",
+        "notes": "",
+        "coords": [
+            47.509193,
+            -121.844065
+        ],
+        "facilities": "Restrooms"
+    },
+    {
+        "name": "Snoqualimie Winery lookout parking",
+        "desc": "",
+        "exit": "27",
+        "elevation": "1070",
+        "parking": "Paved (22)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.510193,
+            -121.842874
+        ],
+        "facilities": "Restrooms and Water"
+    },
+    {
+        "name": "Little Si trail parking",
+        "desc": "",
+        "exit": "32",
+        "elevation": "500",
+        "parking": "Paved (37)",
+        "permit": "Discover Pass",
+        "notes": "",
+        "coords": [
+            47.486672,
+            -121.75375
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Little Si overflow parking",
+        "desc": "",
+        "exit": "32",
+        "elevation": "500",
+        "parking": "Paved (46)",
+        "permit": "Discover Pass",
+        "notes": "",
+        "coords": [
+            47.487789,
+            -121.757301
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Mt. Si trail parking",
+        "desc": "",
+        "exit": "32",
+        "elevation": "668",
+        "parking": "Paved (120)",
+        "permit": "Discover Pass",
+        "notes": "",
+        "coords": [
+            47.487901,
+            -121.723312
+        ],
+        "facilities": "Restroom and Water"
+    },
+    {
+        "name": "Teneriffe trail parking",
+        "desc": "",
+        "exit": "32",
+        "elevation": "920",
+        "parking": "Gravel (22)",
+        "permit": "Discover Pass",
+        "notes": "Also known as the \"School Bus Turnaround\". Replaced.",
+        "coords": [
+            47.486114,
+            -121.685807
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Cougar Mtn Anti-Aircraft parking",
+        "desc": "",
+        "exit": "Unknown",
+        "elevation": "Unknown",
+        "parking": "Paved and Gravel (35)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.541132,
+            -122.096118
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Cougar Mtn Bear Ridge trail parking",
+        "desc": "",
+        "exit": "15",
+        "elevation": "210",
+        "parking": "Gravel (3)",
+        "permit": "None",
+        "notes": "Heavy traffic in area.",
+        "coords": [
+            47.526876,
+            -122.064047
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Cougar Mtn Indian trail parking",
+        "desc": "",
+        "exit": "Unknown",
+        "elevation": "Unknown",
+        "parking": "Minimal",
+        "permit": "None",
+        "notes": "Along public cul-de-saq.",
+        "coords": [
+            47.515451,
+            -122.120757
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Cougar Mtn Issaquah rock trail parking",
+        "desc": "",
+        "exit": "15",
+        "elevation": "450",
+        "parking": "Gravel (10)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.513328,
+            -122.078107
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Cougar Mtn Red Town parking",
+        "desc": "",
+        "exit": "Unknown",
+        "elevation": "Unknown",
+        "parking": "Gravel (95)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.53478,
+            -122.128798
+        ],
+        "facilities": "Porta Potties"
+    },
+    {
+        "name": "Cougar Mtn Ring road trail parking private",
+        "desc": "",
+        "exit": "Unknown",
+        "elevation": "Unknown",
+        "parking": "None",
+        "permit": "Unknown",
+        "notes": "Authorized Use Only",
+        "coords": [
+            47.514578,
+            -122.099798
+        ],
+        "facilities": "Unknown"
+    },
+    {
+        "name": "Cougar Mtn Sky Country parking",
+        "desc": "",
+        "exit": "38",
+        "elevation": "Unknown",
+        "parking": "Paved (35)",
+        "permit": "None",
+        "notes": "Potential horse parking off of \"Clay Pit Road\" (166th)",
+        "coords": [
+            47.533204,
+            -122.113488
+        ],
+        "facilities": "Porta Potties"
+    },
+    {
+        "name": "Cougar Mtn Wilderness Creek trail parking",
+        "desc": "",
+        "exit": "15",
+        "elevation": "390",
+        "parking": "Paved (14)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.510106,
+            -122.087191
+        ],
+        "facilities": "Porta Potties"
+    },
+    {
+        "name": "Grand Ridge trail parking",
+        "desc": "",
+        "exit": "15",
+        "elevation": "Unknown",
+        "parking": "Minimal",
+        "permit": "None",
+        "notes": "Park at corner of road.",
+        "coords": [
+            47.544406,
+            -121.968654
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Grand ridge trail parking",
+        "desc": "",
+        "exit": "Unknown",
+        "elevation": "Unknown",
+        "parking": "Minimal",
+        "permit": "None",
+        "notes": "Walk down private drive for 300 yards to trailhead.",
+        "coords": [
+            47.544706,
+            -121.990954
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Issaquah Preston I-90 trail",
+        "desc": "",
+        "exit": "20",
+        "elevation": "500",
+        "parking": "Gravel (15)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.532002,
+            -121.980332
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Taylor Mtn parking",
+        "desc": "",
+        "exit": "17 or 25",
+        "elevation": "530",
+        "parking": "Gravel (Unknown Number)",
+        "permit": "Unknown",
+        "notes": "",
+        "coords": [
+            47.432101,
+            -121.971363
+        ],
+        "facilities": "Unknown"
+    },
+    {
+        "name": "Tiger summit parking",
+        "desc": "",
+        "exit": "25",
+        "elevation": "1380",
+        "parking": "Gravel (65+)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.46636,
+            -121.931017
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Tiger summit summer parking",
+        "desc": "",
+        "exit": "35",
+        "elevation": "1450",
+        "parking": "Gravel (Unknown Number)",
+        "permit": "Unknown",
+        "notes": "Closed in Winter",
+        "coords": [
+            47.468188,
+            -121.936349
+        ],
+        "facilities": "Restrooms"
+    },
+    {
+        "name": "Tiger Mountain Trail parking",
+        "desc": "",
+        "exit": "17 or 25",
+        "elevation": "550",
+        "parking": "Paved (25)",
+        "permit": "None",
+        "notes": "Along road.",
+        "coords": [
+            47.443119,
+            -121.976885
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Tiger Paraglider trail",
+        "desc": "",
+        "exit": "17",
+        "elevation": "840",
+        "parking": "None (Pedestrian Only)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.473651,
+            -121.993515
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Tiger Chirico trail parking",
+        "desc": "",
+        "exit": "17",
+        "elevation": "177",
+        "parking": "Gravel (70)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.499985,
+            -122.022065
+        ],
+        "facilities": "Porta Potties"
+    },
+    {
+        "name": "Tiger High School trail",
+        "desc": "",
+        "exit": "17",
+        "elevation": "130",
+        "parking": "Dirt (6)",
+        "permit": "None",
+        "notes": "Potential street parking.",
+        "coords": [
+            47.519385,
+            -122.03003
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Tiger Highpoint (Tradition Lake) parking",
+        "desc": "",
+        "exit": "20",
+        "elevation": "530",
+        "parking": "Gravel (100)",
+        "permit": "Discover Pass",
+        "notes": "",
+        "coords": [
+            47.529583,
+            -121.995723
+        ],
+        "facilities": "Restrooms"
+    },
+    {
+        "name": "Tiger Cable Line trail parking",
+        "desc": "",
+        "exit": "20",
+        "elevation": "530",
+        "parking": "Paved (180)",
+        "permit": "None",
+        "notes": "Trails are before gate.",
+        "coords": [
+            47.530729,
+            -121.987687
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Tiger Highpoint trail (79th st gate) parking",
+        "desc": "",
+        "exit": "20",
+        "elevation": "510",
+        "parking": "Paved (6)",
+        "permit": "Discover Pass",
+        "notes": "",
+        "coords": [
+            47.530504,
+            -121.979455
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Squak Mtn Bullit trail parking",
+        "desc": "",
+        "exit": "15",
+        "elevation": "1100",
+        "parking": "Paved (5)",
+        "permit": "None",
+        "notes": "Public cul-de-saq.",
+        "coords": [
+            47.516491,
+            -122.058159
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Squak Mtn south parking",
+        "desc": "",
+        "exit": "Unknown",
+        "elevation": "Unknown",
+        "parking": "Paved (35)",
+        "permit": "Discover Pass",
+        "notes": "",
+        "coords": [
+            47.481763,
+            -122.053927
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Squak Mtn west parking",
+        "desc": "",
+        "exit": "Unknown",
+        "elevation": "Unknown",
+        "parking": "Gravel (Unknown Number)",
+        "permit": "None",
+        "notes": "Along road.",
+        "coords": [
+            47.519217,
+            -122.069655
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Gold Creek trail parking",
+        "desc": "",
+        "exit": "54",
+        "elevation": "2540",
+        "parking": "Unknown",
+        "permit": "NW Forest Pass",
+        "notes": "",
+        "coords": [
+            47.396439,
+            -121.379153
+        ],
+        "facilities": "Unknown"
+    },
+    {
+        "name": "Lake Keechelus and Iron Horse parking",
+        "desc": "",
+        "exit": "54",
+        "elevation": "2570",
+        "parking": "Paved (Unknown Number)",
+        "permit": "NW Forest Pass",
+        "notes": "",
+        "coords": [
+            47.384386,
+            -121.389844
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Hyak Iron Horse trail parking",
+        "desc": "",
+        "exit": "54",
+        "elevation": "2570",
+        "parking": "Paved (Unknown Number)",
+        "permit": "Discover Pass",
+        "notes": "Very large.",
+        "coords": [
+            47.391758,
+            -121.392344
+        ],
+        "facilities": "Restroom and Water"
+    },
+    {
+        "name": "Sno Pass helicopter emergency landing area",
+        "desc": "",
+        "exit": "52",
+        "elevation": "3000",
+        "parking": "Paved (100)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.426447,
+            -121.417208
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Mailbox Peak new parking lot",
+        "desc": "",
+        "exit": "34",
+        "elevation": "825",
+        "parking": "Paved (45)",
+        "permit": "Discover Pass",
+        "notes": "",
+        "coords": [
+            47.466665,
+            -121.673884
+        ],
+        "facilities": "Restroom"
+    },
+    {
+        "name": "Cougar Mtn Big Tree parking",
+        "desc": "",
+        "exit": "15",
+        "elevation": "500",
+        "parking": "Gravel (8)",
+        "permit": "None",
+        "notes": "Gated.",
+        "coords": [
+            47.545829,
+            -122.069178
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Tiger East Sunset parking",
+        "desc": "",
+        "exit": "18",
+        "elevation": "150",
+        "parking": "Gravel (35)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.529662,
+            -122.024889
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Bare Mountain parking",
+        "desc": "",
+        "exit": "31",
+        "elevation": "2110",
+        "parking": "Gravel (4)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.639846,
+            -121.529002
+        ],
+        "facilities": "None"
+    },
+    {
+        "name": "Squak Mtn Margaret's Way trail parking",
+        "desc": "",
+        "exit": "15",
+        "elevation": "310",
+        "parking": "Gravel (25)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.507998,
+            -122.088189
+        ],
+        "facilities": "Porta Potties"
+    },
+    {
+        "name": "Coal Creek trail parking",
+        "desc": "",
+        "exit": "11",
+        "elevation": "180",
+        "parking": "Gravel (Unknown Number)",
+        "permit": "None",
+        "notes": "",
+        "coords": [
+            47.554149,
+            -122.166477
+        ],
+        "facilities": "Unknown"
+    }
+]
